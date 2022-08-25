@@ -1,0 +1,8 @@
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_HelloWorld\bin\Debug\Fluke_HelloWorld.exe.config
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_HelloWorld\bin\Debug\Fluke_HelloWorld.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_HelloWorld\bin\Debug\Fluke_HelloWorld.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_HelloWorld\obj\Debug\Fluke_HelloWorld.csproj.AssemblyReference.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_HelloWorld\obj\Debug\Fluke_HelloWorld.csproj.SuggestedBindingRedirects.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_HelloWorld\obj\Debug\Fluke_HelloWorld.csproj.CoreCompileInputs.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_HelloWorld\obj\Debug\Fluke_HelloWorld.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_HelloWorld\obj\Debug\Fluke_HelloWorld.pdb
