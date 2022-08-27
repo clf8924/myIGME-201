@@ -1,0 +1,8 @@
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_SquashTheBugs\obj\Debug\Fluke_SquashTheBugs.csproj.AssemblyReference.cache
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_SquashTheBugs\obj\Debug\Fluke_SquashTheBugs.csproj.SuggestedBindingRedirects.cache
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_SquashTheBugs\obj\Debug\Fluke_SquashTheBugs.csproj.CoreCompileInputs.cache
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_SquashTheBugs\bin\Debug\Fluke_SquashTheBugs.exe.config
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_SquashTheBugs\bin\Debug\Fluke_SquashTheBugs.exe
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_SquashTheBugs\bin\Debug\Fluke_SquashTheBugs.pdb
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_SquashTheBugs\obj\Debug\Fluke_SquashTheBugs.exe
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_SquashTheBugs\obj\Debug\Fluke_SquashTheBugs.pdb
