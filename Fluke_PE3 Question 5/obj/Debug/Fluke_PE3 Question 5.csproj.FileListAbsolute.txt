@@ -1,0 +1,8 @@
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_PE3 Question 5\bin\Debug\Fluke_PE3 Question 5.exe.config
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_PE3 Question 5\bin\Debug\Fluke_PE3 Question 5.exe
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_PE3 Question 5\bin\Debug\Fluke_PE3 Question 5.pdb
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_PE3 Question 5\obj\Debug\Fluke_PE3 Question 5.csproj.AssemblyReference.cache
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_PE3 Question 5\obj\Debug\Fluke_PE3 Question 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_PE3 Question 5\obj\Debug\Fluke_PE3 Question 5.csproj.CoreCompileInputs.cache
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_PE3 Question 5\obj\Debug\Fluke_PE3 Question 5.exe
+C:\Users\ender\OneDrive\Desktop\Code\Fluke_PE3 Question 5\obj\Debug\Fluke_PE3 Question 5.pdb
