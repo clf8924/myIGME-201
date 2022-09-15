@@ -1,0 +1,8 @@
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE8 Question 5\bin\Debug\Fluke_PE8 Question 5.exe.config
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE8 Question 5\bin\Debug\Fluke_PE8 Question 5.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE8 Question 5\bin\Debug\Fluke_PE8 Question 5.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE8 Question 5\obj\Debug\Fluke_PE8 Question 5.csproj.AssemblyReference.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE8 Question 5\obj\Debug\Fluke_PE8 Question 5.csproj.SuggestedBindingRedirects.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE8 Question 5\obj\Debug\Fluke_PE8 Question 5.csproj.CoreCompileInputs.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE8 Question 5\obj\Debug\Fluke_PE8 Question 5.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE8 Question 5\obj\Debug\Fluke_PE8 Question 5.pdb
