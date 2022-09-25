@@ -1,0 +1,8 @@
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam1 Q3\bin\Debug\Fluke_Exam1 Q3.exe.config
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam1 Q3\bin\Debug\Fluke_Exam1 Q3.exe
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam1 Q3\bin\Debug\Fluke_Exam1 Q3.pdb
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam1 Q3\obj\Debug\Fluke_Exam1 Q3.csproj.AssemblyReference.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam1 Q3\obj\Debug\Fluke_Exam1 Q3.csproj.SuggestedBindingRedirects.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam1 Q3\obj\Debug\Fluke_Exam1 Q3.csproj.CoreCompileInputs.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam1 Q3\obj\Debug\Fluke_Exam1 Q3.exe
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam1 Q3\obj\Debug\Fluke_Exam1 Q3.pdb
