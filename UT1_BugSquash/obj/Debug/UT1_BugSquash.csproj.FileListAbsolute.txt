@@ -1,0 +1,8 @@
+E:\Semesters\Semester 3\IGME 201\Code\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.AssemblyReference.cache
+E:\Semesters\Semester 3\IGME 201\Code\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.SuggestedBindingRedirects.cache
+E:\Semesters\Semester 3\IGME 201\Code\UT1_BugSquash\obj\Debug\UT1_BugSquash.csproj.CoreCompileInputs.cache
+E:\Semesters\Semester 3\IGME 201\Code\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe.config
+E:\Semesters\Semester 3\IGME 201\Code\UT1_BugSquash\bin\Debug\UT1_BugSquash.exe
+E:\Semesters\Semester 3\IGME 201\Code\UT1_BugSquash\bin\Debug\UT1_BugSquash.pdb
+E:\Semesters\Semester 3\IGME 201\Code\UT1_BugSquash\obj\Debug\UT1_BugSquash.exe
+E:\Semesters\Semester 3\IGME 201\Code\UT1_BugSquash\obj\Debug\UT1_BugSquash.pdb
