@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluke_Exam2 Q10", "Fluke_Exam2 Q10.csproj", "{A3C95D59-FB4A-457F-87F2-0A4DB38A6CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C95D59-FB4A-457F-87F2-0A4DB38A6CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C95D59-FB4A-457F-87F2-0A4DB38A6CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C95D59-FB4A-457F-87F2-0A4DB38A6CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C95D59-FB4A-457F-87F2-0A4DB38A6CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D3FE07-88F7-4EBE-8FCD-0E3DBBE46D1F}
+	EndGlobalSection
+EndGlobal
