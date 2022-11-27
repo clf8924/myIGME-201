@@ -1,0 +1,8 @@
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_PE14\bin\Debug\Fluke_PE14.exe.config
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_PE14\bin\Debug\Fluke_PE14.exe
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_PE14\bin\Debug\Fluke_PE14.pdb
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_PE14\obj\Debug\Fluke_PE14.csproj.AssemblyReference.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_PE14\obj\Debug\Fluke_PE14.csproj.SuggestedBindingRedirects.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_PE14\obj\Debug\Fluke_PE14.csproj.CoreCompileInputs.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_PE14\obj\Debug\Fluke_PE14.exe
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_PE14\obj\Debug\Fluke_PE14.pdb
