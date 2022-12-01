@@ -1,0 +1,22 @@
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\bin\Debug\Fluke_Exam4 Q2.exe.config
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\bin\Debug\Fluke_Exam4 Q2.exe
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\bin\Debug\Fluke_Exam4 Q2.pdb
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.csproj.AssemblyReference.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.csproj.SuggestedBindingRedirects.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4_Q2.Form1.resources
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4_Q2.Properties.Resources.resources
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.csproj.GenerateResource.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.csproj.CoreCompileInputs.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.exe
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\bin\Debug\Fluke_Exam4 Q2.exe.config
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\bin\Debug\Fluke_Exam4 Q2.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\bin\Debug\Fluke_Exam4 Q2.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.csproj.AssemblyReference.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.csproj.SuggestedBindingRedirects.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4_Q2.Form1.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4_Q2.Properties.Resources.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.csproj.GenerateResource.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.csproj.CoreCompileInputs.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_Exam4 Q2\obj\Debug\Fluke_Exam4 Q2.pdb
