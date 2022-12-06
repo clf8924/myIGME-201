@@ -1,0 +1,32 @@
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseList.exe.config
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseList.exe
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseList.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseLib.dll
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\PeopleAppGlobals.dll
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\PeopleLib.dll
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\CourseLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\PeopleAppGlobals.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\bin\Debug\PeopleLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseList.csprojAssemblyReference.cache
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseList.CourseListForm.resources
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseList.Properties.Resources.resources
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseList.csproj.GenerateResource.cache
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseList.csproj.CopyComplete
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseList.exe
+C:\Users\dschuh\source\repos\IGME-201\CourseApp\obj\Debug\CourseList.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\obj\Debug\CourseList.csproj.AssemblyReference.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\obj\Debug\CourseList.csproj.SuggestedBindingRedirects.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\obj\Debug\CourseList.CourseListForm.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\obj\Debug\CourseList.Properties.Resources.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\obj\Debug\CourseList.csproj.GenerateResource.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\obj\Debug\CourseList.csproj.CoreCompileInputs.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\obj\Debug\CourseList.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\obj\Debug\CourseList.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\bin\Debug\CourseList.exe.config
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\bin\Debug\CourseList.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\bin\Debug\CourseList.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\bin\Debug\PeopleLib.dll
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\bin\Debug\CourseLib.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\bin\Debug\PeopleAppGlobals.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\bin\Debug\PeopleLib.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE19\CourseList\obj\Debug\CourseList.csproj.CopyComplete
