@@ -1,0 +1,11 @@
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\bin\Debug\PE20Dom.exe.config
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\bin\Debug\PE20Dom.exe
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\bin\Debug\PE20Dom.pdb
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\obj\Debug\PE20Dom.csproj.AssemblyReference.cache
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\obj\Debug\PE20Dom.csproj.SuggestedBindingRedirects.cache
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\obj\Debug\PE20Dom.Form1.resources
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\obj\Debug\PE20Dom.Properties.Resources.resources
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\obj\Debug\PE20Dom.csproj.GenerateResource.cache
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\obj\Debug\PE20Dom.csproj.CoreCompileInputs.cache
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\obj\Debug\PE20Dom.exe
+E:\Semesters\Semester 3\IGME 201\Code\PE20Dom\obj\Debug\PE20Dom.pdb
