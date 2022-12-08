@@ -1,0 +1,12 @@
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\obj\Debug\Fluke_PE26.csproj.AssemblyReference.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\obj\Debug\Fluke_PE26.csproj.SuggestedBindingRedirects.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\obj\Debug\Fluke_PE26.SettingsForm.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\obj\Debug\Fluke_PE26.DyscordForm.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\obj\Debug\Fluke_PE26.Properties.Resources.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\obj\Debug\Fluke_PE26.csproj.GenerateResource.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\obj\Debug\Fluke_PE26.csproj.CoreCompileInputs.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\bin\Debug\Fluke_PE26.exe.config
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\bin\Debug\Fluke_PE26.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\bin\Debug\Fluke_PE26.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\obj\Debug\Fluke_PE26.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE26\obj\Debug\Fluke_PE26.pdb
