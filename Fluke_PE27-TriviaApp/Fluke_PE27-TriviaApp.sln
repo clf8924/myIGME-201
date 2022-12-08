@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluke_PE27-TriviaApp", "Fluke_PE27-TriviaApp.csproj", "{6BA1E5BB-3D41-4256-B752-EAE58E245812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA1E5BB-3D41-4256-B752-EAE58E245812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA1E5BB-3D41-4256-B752-EAE58E245812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA1E5BB-3D41-4256-B752-EAE58E245812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA1E5BB-3D41-4256-B752-EAE58E245812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BB994A7-6654-45B2-ABA0-9D5A9B4EE0DA}
+	EndGlobalSection
+EndGlobal
