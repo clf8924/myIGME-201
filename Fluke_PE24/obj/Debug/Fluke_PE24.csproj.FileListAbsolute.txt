@@ -1,0 +1,13 @@
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\bin\Debug\Fluke_PE24.exe.config
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\bin\Debug\Fluke_PE24.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\bin\Debug\Fluke_PE24.pdb
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.csproj.AssemblyReference.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.csproj.SuggestedBindingRedirects.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.GifFinder.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.SearchForm.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.ImageForm.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.Properties.Resources.resources
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.csproj.GenerateResource.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.csproj.CoreCompileInputs.cache
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.exe
+E:\Semesters\Semester 3\IGME 201\Code\Fluke_PE24\obj\Debug\Fluke_PE24.pdb
