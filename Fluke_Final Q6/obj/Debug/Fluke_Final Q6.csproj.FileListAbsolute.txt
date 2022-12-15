@@ -1,0 +1,11 @@
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\bin\Debug\Fluke_Final Q6.exe.config
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\bin\Debug\Fluke_Final Q6.exe
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\bin\Debug\Fluke_Final Q6.pdb
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\bin\Debug\Newtonsoft.Json.dll
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\bin\Debug\Newtonsoft.Json.xml
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\obj\Debug\Fluke_Final Q6.csproj.AssemblyReference.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\obj\Debug\Fluke_Final Q6.csproj.SuggestedBindingRedirects.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\obj\Debug\Fluke_Final Q6.csproj.CoreCompileInputs.cache
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\obj\Debug\Fluke_Final Q6.csproj.CopyComplete
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\obj\Debug\Fluke_Final Q6.exe
+F:\Semesters\Semester 3\IGME 201\Code\Fluke_Final Q6\obj\Debug\Fluke_Final Q6.pdb
